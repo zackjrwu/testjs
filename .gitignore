@@ -1,12 +1,12 @@
-# npm �����O����
+﻿# npm 除錯記錄檔
 npm-debug.log*
 
-# �M�ר̿����Y
+# 專案依賴關係
 node_modules
 
-# OSX ��Ƨ��ݩ�
+# OSX 資料夾屬性
 .DS_Store
 
-# �Ȯɩ��ɮ�
+# 暫時性檔案
 *.tmp
 *~
